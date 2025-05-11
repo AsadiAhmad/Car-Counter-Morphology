@@ -20,6 +20,10 @@ This project performs binary segmentation and morphological analysis to automati
 - Numpy : Best Library for working with arrays in python
 - MatPlotLib : Library for showing the charts in python
 
+## 💻 Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Car-Counter-Morphology/blob/main/Code/Car_Counter_Morphology.ipynb)
+
 ## 🪪 License
 
 This project is licensed under the MIT License.
